@@ -16,3 +16,6 @@ To run this project.
     - db name: database
     - host: 0.0.0.0
     - port: 5432
+6. Table names:
+    - btc_price
+    - btc_volatility
