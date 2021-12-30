@@ -8,7 +8,7 @@ To run this project.
 
 1. checkout the project
 2. ```cd BTC_Volatility```
-3. docker-compose up --build
+3. ```docker-compose up --build```
 4. Once it finishes and prints the following Extract Transform and Load is completed
 5. In pgadmin or similar tool access the databases.
     - db user name: postgres
